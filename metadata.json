@@ -1,0 +1,6 @@
+{
+  "name": "Bhumi Urea Calculator",
+  "description": "Calculate. Convert. Apply. A premium agricultural utility for calculating Urea fertilizer requirements based on crop type and land area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
